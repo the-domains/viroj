@@ -1,0 +1,28 @@
+name: viroj
+favicon: null
+layout_spectrum: 0.028663243865594268
+typography_spectrum: 0.7951565540861338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.576032220153138
+  lightness: 0.8465026505291462
+  saturation: 0.49184016650542617
+  rhythmicContrast: 0.04584503662772477
+purpose: []
