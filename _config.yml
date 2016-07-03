@@ -1,28 +1,40 @@
-name: viroj
-favicon: null
-layout_spectrum: 0.028663243865594268
-typography_spectrum: 0.7951565540861338
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.02866324386559427
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.4918401665054262
+  brandStrength: 0.576032220153138
+  rhythmicContrast: 0.04584503662772477
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.576032220153138
   lightness: 0.8465026505291462
-  saturation: 0.49184016650542617
-  rhythmicContrast: 0.04584503662772477
 purpose: []
+favicon: null
+name: viroj
+typography_spectrum: 0.7951565540861338
